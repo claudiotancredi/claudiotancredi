@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Claudio Tancredi </h1>
-<h3 align="center">Machine Learning student @ PoliTo </h3>
+<h3 align="center">Artificial Intelligence and Data Analytics student @ PoliTo </h3>
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-22-blue" />
