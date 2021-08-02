@@ -11,12 +11,12 @@
 <hr>
 <h2 align="center">You can reach me at</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/claudio-tancredi/"><img align="center" src="https://img.shields.io/badge/Claudio Tancredi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:claudiotancredi98@gmail.com"><img align="center" src="https://img.shields.io/badge/claudiotancredi98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/claudio-tancredi/" target=”_blank”><img align="center" src="https://img.shields.io/badge/Claudio Tancredi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:claudiotancredi98@gmail.com" target=”_blank”><img align="center" src="https://img.shields.io/badge/claudiotancredi98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 <hr>
 <h2 align="center">Certifications! 🏆</h2>
 <p align="center">
-<a href="https://create.arduino.cc/edu/courses/local/certification/certinfo.php?id=576b8c1d-cba4-46bf-b828-9e50afd8c65c"><img align="center" src="https://img.shields.io/badge/Arduino%20Fundamentals-red?style=for-the-badge" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://drive.google.com/file/d/10XVEbWSaMK8cnhwwLap-54rVmVcBEqbh/view"><img align="center" src="https://img.shields.io/badge/Security%20Soft%20Start-blue?style=for-the-badge" /></a>
+<a href="https://create.arduino.cc/edu/courses/local/certification/certinfo.php?id=576b8c1d-cba4-46bf-b828-9e50afd8c65c" target=”_blank”><img align="center" src="https://img.shields.io/badge/Arduino%20Fundamentals-red?style=for-the-badge" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://drive.google.com/file/d/10XVEbWSaMK8cnhwwLap-54rVmVcBEqbh/view" target=”_blank”><img align="center" src="https://img.shields.io/badge/Security%20Soft%20Start-blue?style=for-the-badge" /></a>
 </p>
 <hr>
 <h2 align="center">⚡ Hobbies</h2>
