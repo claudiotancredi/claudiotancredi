@@ -16,5 +16,5 @@
 <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=claudiotancredi&hide_border=true&background=FF2D2D00&sideLabels=70A3F6&currStreakNum=70A3F6&sideNums=70A3F6&dates=70A3F6&stroke=DD272700)](https://git.io/streak-stats)
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiotancredi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&langs_count=6" alt="ovi" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiotancredi&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true" alt="ovi" width="410" /></p>
