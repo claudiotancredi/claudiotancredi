@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Lives-Turin, Italy-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Italian-brightgreen" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=claudiotancredi&label=Profile%20views&color=0e75b6&style=flat" alt="binco97" /> </p>
 <hr>
 <h2 align="center">Certifications! 🏆</h2>
 <p align="center">
