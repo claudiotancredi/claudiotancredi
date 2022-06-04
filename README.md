@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Claudio Tancredi </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I am Claudio Tancredi </h1>
 <h3 align="center">Artificial Intelligence and Data Analytics student @ PoliTo </h3>
 </p>
  <p align="center">
@@ -15,7 +15,7 @@
 </p>
 <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
  <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=claudiotancredi&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D"></p>
 
