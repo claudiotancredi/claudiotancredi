@@ -14,3 +14,13 @@
 <h2 align="center">Projects! 👨🏻‍💻</h2>
 
 <p align="center">Coming soon...</p>
+
+<!---<table>
+ <tr>
+  <td><h4>Tool wear classification - July 2022</h4><ul><li>Designed a novel two-stage pipeline for wear state classification of cemented carbide inserts</li>
+   <li>Effectively emulated the cognitive process of a human operator</li>
+   <li>Significantly reduced industrial costs due to misclassification in relevant scenarios</li>
+   </ul></td>
+  <td><img src="https://raw.githubusercontent.com/claudiotancredi/Tool-wear-classification/master/img/pipeline-arch.jpg" width="500px"></td>
+ </tr>
+</table>-->
