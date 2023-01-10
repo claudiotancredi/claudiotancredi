@@ -15,7 +15,7 @@
 
 <p align="center">Coming soon...</p>
 <hr>
-<h2 align="center">Joke of the day! 👻</h2>
+<h2 align="center">Random joke! 👻</h2>
 <!-- HTML -->
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
