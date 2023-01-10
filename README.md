@@ -14,6 +14,11 @@
 <h2 align="center">Projects! 👨🏻‍💻</h2>
 
 <p align="center">Coming soon...</p>
+<hr>
+<h2 align="center">Joke of the day! 👻</h2>
+<!-- HTML -->
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </p>
 
 <!---<table>
  <tr>
