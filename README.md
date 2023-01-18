@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello friend <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
- <p align="center"><img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=claudiotancredi&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&title_color=blue&hide_border=true&icon_color=blue&include_all_commits=true" alt="ovi" width="419" /></p>
+ <p align="center"><img align="center" src="https://github-readme-stats-one-taupe-67.vercel.app/api?username=claudiotancredi&show_icons=true&locale=en&theme=chartreuse-dark&count_private=true&title_color=blue&hide_border=true&icon_color=blue&include_all_commits=true" alt="ovi" width="419" /></p>
 <h3 align="center">MSc student in Artificial Intelligence and Data Analytics @ PoliTo </h3>
 
  <p align="center">
