@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Based%20in-Turin,%20Italy-blue" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Italian-blue" />
   <img src="https://img.shields.io/badge/Interests-Football,%20Tennis,%20Padel,%20Space%20exploration-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning,%20Deep%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning,%20Deep%20Learning-blue" />
 </p>
 <hr>
   <p align="center">
