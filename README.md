@@ -1,9 +1,7 @@
 
 ## Hello friend  👋
-- 💻 I'm a MSc student in Artificial Intelligence and Data Analytics @ PoliTo
-- 🚀 I'm currently working on my master thesis in the space field 
+- 💻 I'm a MSc graduate in Artificial Intelligence and Data Analytics @ PoliTo
 - 📍 I'm based in Torino, Italy 
-- 🎾 In addition to space science, I'm also interested in sports such as football, tennis and padel 
 
 
  ## Git Stats  📈
