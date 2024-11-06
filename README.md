@@ -1,6 +1,6 @@
 
 ## Hello friend  👋
-- 💻 I'm a MSc graduate in Artificial Intelligence and Data Analytics @ PoliTo
+- 💻 I'm a MSc Graduate in Artificial Intelligence and Data Analytics @ PoliTo
 - 📍 I'm based in Torino, Italy 
 
 
