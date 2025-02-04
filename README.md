@@ -1,7 +1,6 @@
-
 ## Hello friend  👋
-- 💻 I'm a MSc Graduate in Artificial Intelligence and Data Analytics @ PoliTo
-- 📍 I'm based in Torino, Italy 
+- 🚀 I am a Machine Learning Engineer @ AIKO - Infinite ways to autonomy
+- 📍 I am based in Torino, Italy 
 
 
  ## Git Stats  📈
