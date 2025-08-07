@@ -1,5 +1,5 @@
 ## Hello friend  👋
-- 🚀 I am a Machine Learning Engineer @ AIKO - Infinite ways to autonomy
+- 🚀 I am a Junior Remote Sensing Machine Learning Engineer - Earth Observation @ AIKO - Infinite ways to autonomy
 - 📍 I am based in Torino, Italy 
 
 
